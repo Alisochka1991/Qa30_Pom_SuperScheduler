@@ -40,11 +40,24 @@ public class LoginTest extends ConfigurationScheduler {
                .loginComplex(Auth.builder().email("uuuuuu1@gmail.com")
                        .password("212229Alisa")
                        .build())
-                       .skipWizard()
+                       .skipWizard()               
                        .isFabAddPresent();
        Assert.assertTrue(isFabPresent);
 
 
+    }
+
+    @Test
+    public void loginComplexCheckErrorMessage()
+    {
+        boolean isLoginButtonPresent = new LoginScreen(driver).loginComplexNegative(Auth.builder()
+                        .email("alisiaagranov@gmail.com")
+                        .password("212229Sdoas")
+                        .build())
+                .checkErrorMessage("Wrong email or password")
+                .confirmErrorMessage()
+                .isLoginButtonPresent();
+        Assert.assertTrue(isLoginButtonPresent);
     }
 
 }
