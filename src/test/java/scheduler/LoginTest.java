@@ -40,7 +40,7 @@ public class LoginTest extends ConfigurationScheduler {
                .loginComplex(Auth.builder().email("uuuuuu1@gmail.com")
                        .password("212229Alisa")
                        .build())
-                       .skipWizard()               
+                       .skipWizard()
                        .isFabAddPresent();
        Assert.assertTrue(isFabPresent);
 

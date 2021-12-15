@@ -32,7 +32,7 @@ public class BaseScreen {
     public boolean isDisplayedWithExp(MobileElement element)
     {
         try {
-            should(element,10);
+            should(element,20);
             return element.isDisplayed();
         } catch (Exception ex)
         {
