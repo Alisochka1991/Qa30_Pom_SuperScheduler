@@ -1,0 +1,240 @@
+20:07:22 INFO  - Start find element --->By.xpath: //*[@resource-id = 'com.example.svetlana.scheduler:id/log_email_input']
+20:07:23 INFO  - The element was found---->By.xpath: //*[@resource-id = 'com.example.svetlana.scheduler:id/log_email_input']
+20:07:23 INFO  - You have a problem ---->An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-TKIRCF4L', ip: '192.168.1.17', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:\Study\Tools\v.0.0.3.apk, appActivity: .presentation.splashScreen...., appPackage: com.example.svetlana.scheduler, automationName: Appium, databaseEnabled: false, desired: {app: C:\Study\Tools\v.0.0.3.apk, appActivity: .presentation.splashScreen...., appPackage: com.example.svetlana.scheduler, automationName: Appium, deviceName: Nex, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 3d22ba57-9680-4682-be72-2aeb067553f1
+*** Element info: {Using=xpath, value=//*[@resource-id = 'com.example.svetlana.scheduler:id/log_email_input']}[Ljava.lang.StackTraceElement;@7633263f
+20:07:23 INFO  - Screen with error in file---->C:\Study\QA30\Qa30_Pom_SuperScheduler\src\test\screenshots\scr443.png
+20:07:24 INFO  - Start find element --->By.xpath: //*[@resource-id = 'com.example.svetlana.scheduler:id/log_email_input']
+20:07:24 INFO  - The element was found---->By.xpath: //*[@resource-id = 'com.example.svetlana.scheduler:id/log_email_input']
+20:07:24 INFO  - You have a problem ---->An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-TKIRCF4L', ip: '192.168.1.17', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:\Study\Tools\v.0.0.3.apk, appActivity: .presentation.splashScreen...., appPackage: com.example.svetlana.scheduler, automationName: Appium, databaseEnabled: false, desired: {app: C:\Study\Tools\v.0.0.3.apk, appActivity: .presentation.splashScreen...., appPackage: com.example.svetlana.scheduler, automationName: Appium, deviceName: Nex, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 3d22ba57-9680-4682-be72-2aeb067553f1
+*** Element info: {Using=xpath, value=//*[@resource-id = 'com.example.svetlana.scheduler:id/log_email_input']}[Ljava.lang.StackTraceElement;@2e5c7a2
+20:07:24 INFO  - Screen with error in file---->C:\Study\QA30\Qa30_Pom_SuperScheduler\src\test\screenshots\scr444.png
+20:07:24 INFO  - Start find element --->By.xpath: //*[@resource-id = 'com.example.svetlana.scheduler:id/log_email_input']
+20:07:24 INFO  - The element was found---->By.xpath: //*[@resource-id = 'com.example.svetlana.scheduler:id/log_email_input']
+20:07:24 INFO  - You have a problem ---->An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-TKIRCF4L', ip: '192.168.1.17', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:\Study\Tools\v.0.0.3.apk, appActivity: .presentation.splashScreen...., appPackage: com.example.svetlana.scheduler, automationName: Appium, databaseEnabled: false, desired: {app: C:\Study\Tools\v.0.0.3.apk, appActivity: .presentation.splashScreen...., appPackage: com.example.svetlana.scheduler, automationName: Appium, deviceName: Nex, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 3d22ba57-9680-4682-be72-2aeb067553f1
+*** Element info: {Using=xpath, value=//*[@resource-id = 'com.example.svetlana.scheduler:id/log_email_input']}[Ljava.lang.StackTraceElement;@6bb8bf93
+20:07:25 INFO  - Screen with error in file---->C:\Study\QA30\Qa30_Pom_SuperScheduler\src\test\screenshots\scr445.png
+20:07:25 INFO  - Start find element --->By.xpath: //*[@resource-id = 'com.example.svetlana.scheduler:id/log_email_input']
+20:07:25 INFO  - The element was found---->By.xpath: //*[@resource-id = 'com.example.svetlana.scheduler:id/log_email_input']
+20:07:25 INFO  - You have a problem ---->An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-TKIRCF4L', ip: '192.168.1.17', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:\Study\Tools\v.0.0.3.apk, appActivity: .presentation.splashScreen...., appPackage: com.example.svetlana.scheduler, automationName: Appium, databaseEnabled: false, desired: {app: C:\Study\Tools\v.0.0.3.apk, appActivity: .presentation.splashScreen...., appPackage: com.example.svetlana.scheduler, automationName: Appium, deviceName: Nex, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 3d22ba57-9680-4682-be72-2aeb067553f1
+*** Element info: {Using=xpath, value=//*[@resource-id = 'com.example.svetlana.scheduler:id/log_email_input']}[Ljava.lang.StackTraceElement;@3e16bc5b
+20:07:26 INFO  - Screen with error in file---->C:\Study\QA30\Qa30_Pom_SuperScheduler\src\test\screenshots\scr446.png
+20:07:26 INFO  - Start find element --->By.xpath: //*[@resource-id = 'com.example.svetlana.scheduler:id/log_email_input']
+20:07:27 INFO  - The element was found---->By.xpath: //*[@resource-id = 'com.example.svetlana.scheduler:id/log_email_input']
+20:07:27 INFO  - Start find element --->By.xpath: //*[@resource-id = 'com.example.svetlana.scheduler:id/log_email_input']
+20:07:27 INFO  - The element was found---->By.xpath: //*[@resource-id = 'com.example.svetlana.scheduler:id/log_email_input']
+20:07:27 INFO  - Start find element --->By.xpath: //*[@resource-id = 'com.example.svetlana.scheduler:id/log_email_input']
+20:07:29 INFO  - The element was found---->By.xpath: //*[@resource-id = 'com.example.svetlana.scheduler:id/log_email_input']
+20:07:29 INFO  - Start find element --->By.xpath: //*[@resource-id = 'com.example.svetlana.scheduler:id/log_email_input']
+20:07:29 INFO  - The element was found---->By.xpath: //*[@resource-id = 'com.example.svetlana.scheduler:id/log_email_input']
+20:07:30 INFO  - Start find element --->By.xpath: //*[@resource-id = 'com.example.svetlana.scheduler:id/log_password_input']
+20:07:31 INFO  - The element was found---->By.xpath: //*[@resource-id = 'com.example.svetlana.scheduler:id/log_password_input']
+20:07:31 INFO  - Start find element --->By.xpath: //*[@resource-id = 'com.example.svetlana.scheduler:id/log_password_input']
+20:07:31 INFO  - The element was found---->By.xpath: //*[@resource-id = 'com.example.svetlana.scheduler:id/log_password_input']
+20:07:31 INFO  - Start find element --->By.xpath: //*[@resource-id = 'com.example.svetlana.scheduler:id/log_password_input']
+20:07:32 INFO  - The element was found---->By.xpath: //*[@resource-id = 'com.example.svetlana.scheduler:id/log_password_input']
+20:07:33 INFO  - Start find element --->By.xpath: //*[@resource-id = 'com.example.svetlana.scheduler:id/login_btn']
+20:07:34 INFO  - The element was found---->By.xpath: //*[@resource-id = 'com.example.svetlana.scheduler:id/login_btn']
+20:07:34 INFO  - Start find element --->By.xpath: //*[@resource-id='com.example.svetlana.scheduler:id/wizard_settings_skip']
+20:07:35 INFO  - The element was found---->By.xpath: //*[@resource-id='com.example.svetlana.scheduler:id/wizard_settings_skip']
+20:07:35 INFO  - You have a problem ---->An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-TKIRCF4L', ip: '192.168.1.17', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:\Study\Tools\v.0.0.3.apk, appActivity: .presentation.splashScreen...., appPackage: com.example.svetlana.scheduler, automationName: Appium, databaseEnabled: false, desired: {app: C:\Study\Tools\v.0.0.3.apk, appActivity: .presentation.splashScreen...., appPackage: com.example.svetlana.scheduler, automationName: Appium, deviceName: Nex, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 3d22ba57-9680-4682-be72-2aeb067553f1
+*** Element info: {Using=xpath, value=//*[@resource-id='com.example.svetlana.scheduler:id/wizard_settings_skip']}[Ljava.lang.StackTraceElement;@2d9dae20
+20:07:36 INFO  - Screen with error in file---->C:\Study\QA30\Qa30_Pom_SuperScheduler\src\test\screenshots\scr456.png
+20:07:36 INFO  - Start find element --->By.xpath: //*[@resource-id='com.example.svetlana.scheduler:id/wizard_settings_skip']
+20:07:36 INFO  - The element was found---->By.xpath: //*[@resource-id='com.example.svetlana.scheduler:id/wizard_settings_skip']
+20:07:36 INFO  - You have a problem ---->An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-TKIRCF4L', ip: '192.168.1.17', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:\Study\Tools\v.0.0.3.apk, appActivity: .presentation.splashScreen...., appPackage: com.example.svetlana.scheduler, automationName: Appium, databaseEnabled: false, desired: {app: C:\Study\Tools\v.0.0.3.apk, appActivity: .presentation.splashScreen...., appPackage: com.example.svetlana.scheduler, automationName: Appium, deviceName: Nex, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 3d22ba57-9680-4682-be72-2aeb067553f1
+*** Element info: {Using=xpath, value=//*[@resource-id='com.example.svetlana.scheduler:id/wizard_settings_skip']}[Ljava.lang.StackTraceElement;@7501ed94
+20:07:37 INFO  - Screen with error in file---->C:\Study\QA30\Qa30_Pom_SuperScheduler\src\test\screenshots\scr457.png
+20:07:38 INFO  - Start find element --->By.xpath: //*[@resource-id='com.example.svetlana.scheduler:id/wizard_settings_skip']
+20:07:38 INFO  - The element was found---->By.xpath: //*[@resource-id='com.example.svetlana.scheduler:id/wizard_settings_skip']
+20:07:38 INFO  - You have a problem ---->An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-TKIRCF4L', ip: '192.168.1.17', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:\Study\Tools\v.0.0.3.apk, appActivity: .presentation.splashScreen...., appPackage: com.example.svetlana.scheduler, automationName: Appium, databaseEnabled: false, desired: {app: C:\Study\Tools\v.0.0.3.apk, appActivity: .presentation.splashScreen...., appPackage: com.example.svetlana.scheduler, automationName: Appium, deviceName: Nex, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 3d22ba57-9680-4682-be72-2aeb067553f1
+*** Element info: {Using=xpath, value=//*[@resource-id='com.example.svetlana.scheduler:id/wizard_settings_skip']}[Ljava.lang.StackTraceElement;@75f09bba
+20:07:39 INFO  - Screen with error in file---->C:\Study\QA30\Qa30_Pom_SuperScheduler\src\test\screenshots\scr459.png
+20:07:39 INFO  - Start find element --->By.xpath: //*[@resource-id='com.example.svetlana.scheduler:id/wizard_settings_skip']
+20:07:39 INFO  - The element was found---->By.xpath: //*[@resource-id='com.example.svetlana.scheduler:id/wizard_settings_skip']
+20:07:39 INFO  - You have a problem ---->An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-TKIRCF4L', ip: '192.168.1.17', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:\Study\Tools\v.0.0.3.apk, appActivity: .presentation.splashScreen...., appPackage: com.example.svetlana.scheduler, automationName: Appium, databaseEnabled: false, desired: {app: C:\Study\Tools\v.0.0.3.apk, appActivity: .presentation.splashScreen...., appPackage: com.example.svetlana.scheduler, automationName: Appium, deviceName: Nex, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 3d22ba57-9680-4682-be72-2aeb067553f1
+*** Element info: {Using=xpath, value=//*[@resource-id='com.example.svetlana.scheduler:id/wizard_settings_skip']}[Ljava.lang.StackTraceElement;@760f3e99
+20:07:40 INFO  - Screen with error in file---->C:\Study\QA30\Qa30_Pom_SuperScheduler\src\test\screenshots\scr460.png
+20:07:41 INFO  - Start find element --->By.xpath: //*[@resource-id='com.example.svetlana.scheduler:id/wizard_settings_skip']
+20:07:41 INFO  - The element was found---->By.xpath: //*[@resource-id='com.example.svetlana.scheduler:id/wizard_settings_skip']
+20:07:41 INFO  - You have a problem ---->An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-TKIRCF4L', ip: '192.168.1.17', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:\Study\Tools\v.0.0.3.apk, appActivity: .presentation.splashScreen...., appPackage: com.example.svetlana.scheduler, automationName: Appium, databaseEnabled: false, desired: {app: C:\Study\Tools\v.0.0.3.apk, appActivity: .presentation.splashScreen...., appPackage: com.example.svetlana.scheduler, automationName: Appium, deviceName: Nex, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 3d22ba57-9680-4682-be72-2aeb067553f1
+*** Element info: {Using=xpath, value=//*[@resource-id='com.example.svetlana.scheduler:id/wizard_settings_skip']}[Ljava.lang.StackTraceElement;@4c6ca639
+20:07:42 INFO  - Screen with error in file---->C:\Study\QA30\Qa30_Pom_SuperScheduler\src\test\screenshots\scr462.png
+20:07:42 INFO  - Start find element --->By.xpath: //*[@resource-id='com.example.svetlana.scheduler:id/wizard_settings_skip']
+20:07:42 INFO  - The element was found---->By.xpath: //*[@resource-id='com.example.svetlana.scheduler:id/wizard_settings_skip']
+20:07:42 INFO  - You have a problem ---->An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-TKIRCF4L', ip: '192.168.1.17', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:\Study\Tools\v.0.0.3.apk, appActivity: .presentation.splashScreen...., appPackage: com.example.svetlana.scheduler, automationName: Appium, databaseEnabled: false, desired: {app: C:\Study\Tools\v.0.0.3.apk, appActivity: .presentation.splashScreen...., appPackage: com.example.svetlana.scheduler, automationName: Appium, deviceName: Nex, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 3d22ba57-9680-4682-be72-2aeb067553f1
+*** Element info: {Using=xpath, value=//*[@resource-id='com.example.svetlana.scheduler:id/wizard_settings_skip']}[Ljava.lang.StackTraceElement;@13be9bb9
+20:07:44 INFO  - Screen with error in file---->C:\Study\QA30\Qa30_Pom_SuperScheduler\src\test\screenshots\scr464.png
+20:07:44 INFO  - Start find element --->By.xpath: //*[@resource-id='com.example.svetlana.scheduler:id/wizard_settings_skip']
+20:07:44 INFO  - The element was found---->By.xpath: //*[@resource-id='com.example.svetlana.scheduler:id/wizard_settings_skip']
+20:07:44 INFO  - You have a problem ---->An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-TKIRCF4L', ip: '192.168.1.17', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:\Study\Tools\v.0.0.3.apk, appActivity: .presentation.splashScreen...., appPackage: com.example.svetlana.scheduler, automationName: Appium, databaseEnabled: false, desired: {app: C:\Study\Tools\v.0.0.3.apk, appActivity: .presentation.splashScreen...., appPackage: com.example.svetlana.scheduler, automationName: Appium, deviceName: Nex, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 3d22ba57-9680-4682-be72-2aeb067553f1
+*** Element info: {Using=xpath, value=//*[@resource-id='com.example.svetlana.scheduler:id/wizard_settings_skip']}[Ljava.lang.StackTraceElement;@395ba06c
+20:07:45 INFO  - Screen with error in file---->C:\Study\QA30\Qa30_Pom_SuperScheduler\src\test\screenshots\scr465.png
+20:07:46 INFO  - Start find element --->By.xpath: //*[@resource-id='com.example.svetlana.scheduler:id/wizard_settings_skip']
+20:07:46 INFO  - The element was found---->By.xpath: //*[@resource-id='com.example.svetlana.scheduler:id/wizard_settings_skip']
+20:07:46 INFO  - You have a problem ---->An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-TKIRCF4L', ip: '192.168.1.17', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:\Study\Tools\v.0.0.3.apk, appActivity: .presentation.splashScreen...., appPackage: com.example.svetlana.scheduler, automationName: Appium, databaseEnabled: false, desired: {app: C:\Study\Tools\v.0.0.3.apk, appActivity: .presentation.splashScreen...., appPackage: com.example.svetlana.scheduler, automationName: Appium, deviceName: Nex, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 3d22ba57-9680-4682-be72-2aeb067553f1
+*** Element info: {Using=xpath, value=//*[@resource-id='com.example.svetlana.scheduler:id/wizard_settings_skip']}[Ljava.lang.StackTraceElement;@19095b3e
+20:07:47 INFO  - Screen with error in file---->C:\Study\QA30\Qa30_Pom_SuperScheduler\src\test\screenshots\scr467.png
+20:07:48 INFO  - Start find element --->By.xpath: //*[@resource-id='com.example.svetlana.scheduler:id/wizard_settings_skip']
+20:07:48 INFO  - The element was found---->By.xpath: //*[@resource-id='com.example.svetlana.scheduler:id/wizard_settings_skip']
+20:07:48 INFO  - You have a problem ---->An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-TKIRCF4L', ip: '192.168.1.17', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:\Study\Tools\v.0.0.3.apk, appActivity: .presentation.splashScreen...., appPackage: com.example.svetlana.scheduler, automationName: Appium, databaseEnabled: false, desired: {app: C:\Study\Tools\v.0.0.3.apk, appActivity: .presentation.splashScreen...., appPackage: com.example.svetlana.scheduler, automationName: Appium, deviceName: Nex, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 3d22ba57-9680-4682-be72-2aeb067553f1
+*** Element info: {Using=xpath, value=//*[@resource-id='com.example.svetlana.scheduler:id/wizard_settings_skip']}[Ljava.lang.StackTraceElement;@5df6e053
+20:07:49 INFO  - Screen with error in file---->C:\Study\QA30\Qa30_Pom_SuperScheduler\src\test\screenshots\scr469.png
+20:07:49 INFO  - Start find element --->By.xpath: //*[@resource-id='com.example.svetlana.scheduler:id/wizard_settings_skip']
+20:07:49 INFO  - The element was found---->By.xpath: //*[@resource-id='com.example.svetlana.scheduler:id/wizard_settings_skip']
+20:07:49 INFO  - You have a problem ---->An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-TKIRCF4L', ip: '192.168.1.17', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:\Study\Tools\v.0.0.3.apk, appActivity: .presentation.splashScreen...., appPackage: com.example.svetlana.scheduler, automationName: Appium, databaseEnabled: false, desired: {app: C:\Study\Tools\v.0.0.3.apk, appActivity: .presentation.splashScreen...., appPackage: com.example.svetlana.scheduler, automationName: Appium, deviceName: Nex, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 3d22ba57-9680-4682-be72-2aeb067553f1
+*** Element info: {Using=xpath, value=//*[@resource-id='com.example.svetlana.scheduler:id/wizard_settings_skip']}[Ljava.lang.StackTraceElement;@43c8d17
+20:07:51 INFO  - Screen with error in file---->C:\Study\QA30\Qa30_Pom_SuperScheduler\src\test\screenshots\scr471.png
+20:07:51 INFO  - Start find element --->By.xpath: //*[@resource-id='com.example.svetlana.scheduler:id/wizard_settings_skip']
+20:07:51 INFO  - The element was found---->By.xpath: //*[@resource-id='com.example.svetlana.scheduler:id/wizard_settings_skip']
+20:07:51 INFO  - You have a problem ---->An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-TKIRCF4L', ip: '192.168.1.17', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:\Study\Tools\v.0.0.3.apk, appActivity: .presentation.splashScreen...., appPackage: com.example.svetlana.scheduler, automationName: Appium, databaseEnabled: false, desired: {app: C:\Study\Tools\v.0.0.3.apk, appActivity: .presentation.splashScreen...., appPackage: com.example.svetlana.scheduler, automationName: Appium, deviceName: Nex, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 3d22ba57-9680-4682-be72-2aeb067553f1
+*** Element info: {Using=xpath, value=//*[@resource-id='com.example.svetlana.scheduler:id/wizard_settings_skip']}[Ljava.lang.StackTraceElement;@1f40fbc1
+20:07:52 INFO  - Screen with error in file---->C:\Study\QA30\Qa30_Pom_SuperScheduler\src\test\screenshots\scr472.png
+20:07:52 INFO  - Start find element --->By.xpath: //*[@resource-id='com.example.svetlana.scheduler:id/wizard_settings_skip']
+20:07:52 INFO  - The element was found---->By.xpath: //*[@resource-id='com.example.svetlana.scheduler:id/wizard_settings_skip']
+20:07:52 INFO  - You have a problem ---->An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-TKIRCF4L', ip: '192.168.1.17', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:\Study\Tools\v.0.0.3.apk, appActivity: .presentation.splashScreen...., appPackage: com.example.svetlana.scheduler, automationName: Appium, databaseEnabled: false, desired: {app: C:\Study\Tools\v.0.0.3.apk, appActivity: .presentation.splashScreen...., appPackage: com.example.svetlana.scheduler, automationName: Appium, deviceName: Nex, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 3d22ba57-9680-4682-be72-2aeb067553f1
+*** Element info: {Using=xpath, value=//*[@resource-id='com.example.svetlana.scheduler:id/wizard_settings_skip']}[Ljava.lang.StackTraceElement;@1d73b36d
+20:07:53 INFO  - Screen with error in file---->C:\Study\QA30\Qa30_Pom_SuperScheduler\src\test\screenshots\scr473.png
+20:07:54 INFO  - Start find element --->By.xpath: //*[@resource-id='com.example.svetlana.scheduler:id/wizard_settings_skip']
+20:07:54 INFO  - The element was found---->By.xpath: //*[@resource-id='com.example.svetlana.scheduler:id/wizard_settings_skip']
+20:07:54 INFO  - You have a problem ---->An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-TKIRCF4L', ip: '192.168.1.17', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:\Study\Tools\v.0.0.3.apk, appActivity: .presentation.splashScreen...., appPackage: com.example.svetlana.scheduler, automationName: Appium, databaseEnabled: false, desired: {app: C:\Study\Tools\v.0.0.3.apk, appActivity: .presentation.splashScreen...., appPackage: com.example.svetlana.scheduler, automationName: Appium, deviceName: Nex, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 3d22ba57-9680-4682-be72-2aeb067553f1
+*** Element info: {Using=xpath, value=//*[@resource-id='com.example.svetlana.scheduler:id/wizard_settings_skip']}[Ljava.lang.StackTraceElement;@57f562ba
+20:07:55 INFO  - Screen with error in file---->C:\Study\QA30\Qa30_Pom_SuperScheduler\src\test\screenshots\scr475.png
+20:07:55 INFO  - Start find element --->By.xpath: //*[@resource-id='com.example.svetlana.scheduler:id/wizard_settings_skip']
+20:07:55 INFO  - The element was found---->By.xpath: //*[@resource-id='com.example.svetlana.scheduler:id/wizard_settings_skip']
+20:07:55 INFO  - You have a problem ---->An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-TKIRCF4L', ip: '192.168.1.17', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:\Study\Tools\v.0.0.3.apk, appActivity: .presentation.splashScreen...., appPackage: com.example.svetlana.scheduler, automationName: Appium, databaseEnabled: false, desired: {app: C:\Study\Tools\v.0.0.3.apk, appActivity: .presentation.splashScreen...., appPackage: com.example.svetlana.scheduler, automationName: Appium, deviceName: Nex, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 3d22ba57-9680-4682-be72-2aeb067553f1
+*** Element info: {Using=xpath, value=//*[@resource-id='com.example.svetlana.scheduler:id/wizard_settings_skip']}[Ljava.lang.StackTraceElement;@37fb7228
+20:07:56 INFO  - Screen with error in file---->C:\Study\QA30\Qa30_Pom_SuperScheduler\src\test\screenshots\scr476.png
+20:07:56 INFO  - Start find element --->By.xpath: //*[@resource-id='com.example.svetlana.scheduler:id/fab_main']
+20:07:56 INFO  - The element was found---->By.xpath: //*[@resource-id='com.example.svetlana.scheduler:id/fab_main']
+20:07:56 INFO  - You have a problem ---->An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-TKIRCF4L', ip: '192.168.1.17', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:\Study\Tools\v.0.0.3.apk, appActivity: .presentation.splashScreen...., appPackage: com.example.svetlana.scheduler, automationName: Appium, databaseEnabled: false, desired: {app: C:\Study\Tools\v.0.0.3.apk, appActivity: .presentation.splashScreen...., appPackage: com.example.svetlana.scheduler, automationName: Appium, deviceName: Nex, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 3d22ba57-9680-4682-be72-2aeb067553f1
+*** Element info: {Using=xpath, value=//*[@resource-id='com.example.svetlana.scheduler:id/fab_main']}[Ljava.lang.StackTraceElement;@7e98cf48
+20:07:57 INFO  - Screen with error in file---->C:\Study\QA30\Qa30_Pom_SuperScheduler\src\test\screenshots\scr477.png
+20:07:58 INFO  - Start find element --->By.xpath: //*[@resource-id='com.example.svetlana.scheduler:id/fab_main']
+20:07:58 INFO  - The element was found---->By.xpath: //*[@resource-id='com.example.svetlana.scheduler:id/fab_main']
+20:07:58 INFO  - You have a problem ---->An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-TKIRCF4L', ip: '192.168.1.17', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:\Study\Tools\v.0.0.3.apk, appActivity: .presentation.splashScreen...., appPackage: com.example.svetlana.scheduler, automationName: Appium, databaseEnabled: false, desired: {app: C:\Study\Tools\v.0.0.3.apk, appActivity: .presentation.splashScreen...., appPackage: com.example.svetlana.scheduler, automationName: Appium, deviceName: Nex, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 3d22ba57-9680-4682-be72-2aeb067553f1
+*** Element info: {Using=xpath, value=//*[@resource-id='com.example.svetlana.scheduler:id/fab_main']}[Ljava.lang.StackTraceElement;@7aa558d8
+20:07:59 INFO  - Screen with error in file---->C:\Study\QA30\Qa30_Pom_SuperScheduler\src\test\screenshots\scr479.png
+20:08:00 INFO  - Start find element --->By.xpath: //*[@resource-id='com.example.svetlana.scheduler:id/fab_main']
+20:08:01 INFO  - The element was found---->By.xpath: //*[@resource-id='com.example.svetlana.scheduler:id/fab_main']
+20:08:01 INFO  - Start find element --->By.xpath: //*[@resource-id='com.example.svetlana.scheduler:id/fab_main']
+20:08:01 INFO  - The element was found---->By.xpath: //*[@resource-id='com.example.svetlana.scheduler:id/fab_main']

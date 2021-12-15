@@ -25,8 +25,27 @@ public class EventTest extends ConfigurationScheduler {
     @Test
     public void createNewEventTest()
     {
-        boolean isFabAddPresent =    new HomeScreen(driver)
+        boolean isLoginPresent =    new HomeScreen(driver)
             .initCreationEvent()
+                .createNewEvent(Event.builder()
+                        .title("Event")
+                        .type("new")
+                        .breaks(2)
+                        .wage(50)
+                        .build())
+                .isFabAddPresentAssert()
+                .openMenu()
+                .logOut()
+                        .isLoginButtonPresent();
+
+        Assert.assertTrue(isLoginPresent);
+    }
+
+    @Test(enabled = false)
+    public void createNewEventTest1()
+    {
+        boolean isFabAddPresent =    new HomeScreen(driver)
+                .initCreationEvent()
                 .createNewEvent(Event.builder()
                         .title("Event")
                         .type("new")

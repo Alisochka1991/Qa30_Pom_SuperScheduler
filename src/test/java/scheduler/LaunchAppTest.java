@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 import scedulerscreens.SplashScreen;
 
 public class LaunchAppTest extends ConfigurationScheduler {
-    @Test
+    @Test(enabled = false)
     public void launchTest()
     {
         logger.info("Start version 0.0.3");

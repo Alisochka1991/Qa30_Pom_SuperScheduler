@@ -1,11 +1,16 @@
 package scheduler;
 
 import config.ConfigurationScheduler;
+import config.DataProviderMy;
+import config.ListenerTestNg;
 import models.Auth;
 import org.testng.Assert;
+import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 import scedulerscreens.LoginScreen;
 import scedulerscreens.SplashScreen;
+
+//@Listeners(ListenerTestNg.class)
 
 public class LoginTest extends ConfigurationScheduler {
     @Test
@@ -21,16 +26,32 @@ public class LoginTest extends ConfigurationScheduler {
         Assert.assertTrue(isFabPresent);
     }
 
-    @Test
-    public void loginStatLoginScreen()
+    @Test(dataProvider = "loginData", dataProviderClass = DataProviderMy.class)
+    public void loginStatLoginScreen(Auth auth)
     {
        boolean isFabPresent =  new LoginScreen(driver)
-                .fillEmail("yoyo2@gmail.com")
-                .fillPassword("212229Alisa")
+              //  .fillEmail("yoyo2@gmail.com")
+              //  .fillPassword("212229Alisa")
+               .fillEmail(auth.getEmail())
+               .fillPassword(auth.getPassword())
                 .clickLoginBtn()
                 .skipWizard()
                 .isFabAddPresent();
        Assert.assertTrue(isFabPresent);
+    }
+
+    @Test(dataProvider = "loginDataCSV", dataProviderClass = DataProviderMy.class)
+    public void loginStatLoginScreenCSV(Auth auth)
+    {
+        boolean isBtn =  new LoginScreen(driver)
+                .loginComplex(auth)
+                .skipWizard()
+                .isFabAddPresentAssert()
+                .openMenu()
+                .logOut()
+                .isLoginButtonPresent();
+
+        Assert.assertTrue(isBtn);
     }
 
     @Test
@@ -44,6 +65,21 @@ public class LoginTest extends ConfigurationScheduler {
                        .isFabAddPresent();
        Assert.assertTrue(isFabPresent);
 
+
+    }
+
+    @Test(dataProvider = "loginData", dataProviderClass = DataProviderMy.class)
+    public void loginAuthTestDP(Auth auth)
+    {
+     boolean isBtn =  new LoginScreen(driver)
+                .loginComplex(auth)
+                .skipWizard()
+               .isFabAddPresentAssert()
+               .openMenu()
+               .logOut()
+               .isLoginButtonPresent();
+
+Assert.assertTrue(isBtn);
 
     }
 

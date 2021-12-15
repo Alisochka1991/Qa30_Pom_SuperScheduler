@@ -1,0 +1,7 @@
+20:39:16 INFO  - LTNG: on Start --->C:\Study\QA30\Qa30_Pom_SuperScheduler\build\reports\tests\test\Gradle suite
+20:39:16 INFO  - LTNG: on Start --->Gradle test
+20:39:27 INFO  - LTNG: Start test ---->16
+20:39:27 INFO  - LTNG: Start test getTestName ---->null
+20:39:27 INFO  - LTNG: Start test getTestClass ---->[TestClass name=class scheduler.LoginTest]
+20:39:27 INFO  - LTNG: Start test getName---->loginAuthTest
+20:40:00 INFO  - LTNG: Start test getName---->loginAuthTest

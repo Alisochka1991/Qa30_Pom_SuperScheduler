@@ -14,6 +14,10 @@ public class HomeScreen extends BaseScreen{
     MobileElement fabAdd;
     @FindBy(xpath = "//*[@resource-id='com.example.svetlana.scheduler:id/fab_add_event']")
     MobileElement fabAddEvent;
+    @FindBy(xpath = "//*[@content-desc='Open']")
+    MobileElement burgerBtn;
+    @FindBy(xpath = "//*[@resource-id='com.example.svetlana.scheduler:id/nav_fr_logout']")
+    MobileElement logout;
 
     public boolean isFabAddPresent()
     {
@@ -36,6 +40,18 @@ public class HomeScreen extends BaseScreen{
         Assert.assertTrue(fabAdd.isDisplayed());
        return this;
 
+   }
+
+   public HomeScreen openMenu()
+   {
+       burgerBtn.click();
+       return  this;
+   }
+
+   public LoginScreen logOut()
+   {
+       logout.click();
+       return new LoginScreen(driver);
    }
 
 }
